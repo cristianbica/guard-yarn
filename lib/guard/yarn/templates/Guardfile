@@ -1,0 +1,3 @@
+guard :yarn do
+  watch("package.json")
+end
